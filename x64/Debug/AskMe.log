@@ -1,0 +1,3 @@
+﻿  AskMe.cpp
+C:\Users\Administrator\source\repos\AskMe\AskMe\AskMe.cpp(19,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  AskMe.vcxproj -> C:\Users\Administrator\source\repos\AskMe\x64\Debug\AskMe.exe
